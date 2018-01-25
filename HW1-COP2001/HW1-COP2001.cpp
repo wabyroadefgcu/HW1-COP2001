@@ -7,6 +7,8 @@
 int main()
 {
 	printf("Hello World.\n");
+//	std::getchar();
+	system("pause");
     return 0;
 }
 
